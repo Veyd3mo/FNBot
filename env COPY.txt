@@ -1,4 +1,5 @@
 TOKEN=this is the token for the bot
+APIKEY= this is the key for the fortnite api 
 
 clientID=client id
 ownerID=my account id
