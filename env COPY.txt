@@ -1,0 +1,14 @@
+TOKEN=this is the token for the bot
+
+clientID=client id
+ownerID=my account id
+guildID=server id
+
+reminderChannel=channel to put reminders in if user has their direct messages closed
+
+defaultColor='#29DCFF'
+errorColor='#ff1717'
+
+mongoDBUrl= mongodb database url
+
+disclaimer: without the env file, the bot will not work, i also cannot show publically the ids and urls due to security reasons. I'm more than happy to give a demo 
